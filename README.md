@@ -1,1 +1,2 @@
-# natural-pqc
+# Natural parameterized quantum circuit
+
