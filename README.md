@@ -1,7 +1,8 @@
 # Natural parameterized quantum circuit
 
 
-"Natural parameterized quantum circuit" by T. Haug, M.S. Kim
+"Natural parameterized quantum circuit" by T. Haug, M.S. Kim (arXiv:2107.14063)
+http://arxiv.org/abs/2107.14063
 
 The Natural parameterized quantum circuit is a parameterized quantum circuit which has euclidean quantum geometry. That means that the quantum Fisher information metric is the identity for a particular parameter set, which we call the reference parameter. This NPQC is very useful for various applications.
 
