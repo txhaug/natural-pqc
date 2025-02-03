@@ -13,4 +13,6 @@ The Natural parameterized quantum circuit is a parameterized quantum circuit whi
 
 The implementation is based on qutip.
 
+NOTE: Requires older version of qutip, namely <=4.7.5, install via "pip install qutip==4.7.5"
+
 @author: Tobias Haug, github txhaug Imperial College London
